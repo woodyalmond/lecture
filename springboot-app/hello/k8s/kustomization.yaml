@@ -9,4 +9,4 @@ resources:
 images:
 - name: woodyalmond/hello-app
   newName: woodyalmond/hello-app
-  newTag: 76dfec4
+  newTag: bf7ee69
